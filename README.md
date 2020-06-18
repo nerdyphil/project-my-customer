@@ -1,2 +1,5 @@
-# project-my-customer
+## Description
 A business management application
+
+## Database type
+MongoDB
